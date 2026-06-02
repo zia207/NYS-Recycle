@@ -1,8 +1,6 @@
 # NYS Recycling Center KPI Dashboard
 
-A Streamlit application modeled on the OALTC KPI Framework, providing a
-comprehensive KPI tracking and reporting system for 20 simulated NYS recycling
-centers across 5 regions.
+A Streamlit application was developed to demonstrate a comprehensive KPI tracking and reporting framework using simulated data from 20 recycling centers across five regions of New York State (NYS). The platform provides interactive dashboards, performance monitoring, data visualization, and automated reporting capabilities to support operational analysis and decision-making.
 
 ## Quick Start
 
