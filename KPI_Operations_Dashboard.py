@@ -36,7 +36,7 @@ with st.sidebar:
     st.divider()
     st.caption("Data refreshed: Jan 2025")
     st.caption("Source: NYS DEC (simulated)")
-    st.caption("© 2025 NYS Recycling KPI Dashboard")
+    st.caption("© 2026 Zia Ahmed, Upatta Analytics")
 
 # ── Hero ─────────────────────────────────────────────────────────────────────────
 st.markdown("""
@@ -379,5 +379,5 @@ is generated from **randomly simulated data** created at application startup.
   any municipal government, or any recycling industry organization.
 
 ---
-*Built as a Python / Streamlit data visualization demonstration · 2025*
+*Built as a Python / Streamlit data visualization demonstration · © 2026 Zia Ahmed, Upatta Analytics*
 """)
